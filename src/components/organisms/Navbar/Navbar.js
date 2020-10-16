@@ -56,7 +56,7 @@ const Navbar = () => {
             </Typography>
             <div className="d-flex">
               <Button color="inherit">Manager</Button>
-              <Avatar>H</Avatar>
+              <Avatar>M</Avatar>
             </div>
           </Toolbar>
         </AppBar>
