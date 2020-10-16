@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project use material ui to build.
+Install material ui:
+### `npm install @material-ui/core`
+
 ## Available Scripts
 
 In the project directory, you can run:
