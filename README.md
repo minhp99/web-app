@@ -29,7 +29,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-### `docker build -t web-app/web:v2`
+### `docker build -t web-app/web:v2 .`
 
 Builds docker image.<br />
 
